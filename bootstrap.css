@@ -1,8 +1,8 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto:300,400,500,700");
 /*!
- * Your Theme Name v0.1.0
+ * Bootstrap Theme Ayna v0.1.0
  *
- * Copyright 2013 Your Name
+ * Copyright 2017 ayna - PI-ME
  * Licensed under the Apache License v2.0
  * http://www.apache.org/licenses/LICENSE-2.0
  *
@@ -15,6 +15,7 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
+
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
