@@ -1,3 +1,3 @@
 # bootstrap-theme-ayna
 
-> Currently under construction using LESS.
+> developed using LESS
